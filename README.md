@@ -5,6 +5,7 @@ Projeto desenvolvido no intensivo de Django + Python, no curso do Pythonando
 - Desenvolvimento de uma aplicação para freelancers
 - Django (Python) + SQLLite
 - Aplicação tendo Autenticação e Cadastro de usuarios em Banco de Dados
+- Controle de projetos distribuidos
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
